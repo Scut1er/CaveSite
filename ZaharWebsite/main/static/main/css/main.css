@@ -1,0 +1,21 @@
+body {
+    background: #5e886b;
+}
+.vl {
+    border-left: 7px solid #5e886b; /* Стиль линии */
+    height: 65px; /* Высота линии, равная высоте логотипа и надписи Cave */
+    margin-left: 10px; /* Отступ слева */
+    margin-right: 10px; /* Отступ справа */
+    border-radius: 5px; /* Радиус скругления */
+    user-select: none; /* Предотвращаем выделение текста */
+}
+.nav-link {
+    user-select: none; /* Предотвращаем выделение текста */
+}
+.container-fluid {
+    user-select: none; /* Предотвращаем выделение текста */
+}
+
+.navbar-brand {
+    color: #5e886b;
+}
